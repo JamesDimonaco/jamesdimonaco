@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Dimonaco</h1>
-<h3 align="center">A passionate frontend developer from United Kingdom</h3>
+<h3 align="center">A passionate frontend developer from the United Kingdom</h3>
 
 - 🌱 I’m currently learning **kubernetes**
 
